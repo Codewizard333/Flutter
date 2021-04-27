@@ -2,13 +2,6 @@
 
 You can follow me on Skype : Codewizard0723
 
-<a href='https://www.buymeacoffee.com/diegoveloper' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
-
-
-
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/YouTube_Logo.svg/800px-YouTube_Logo.svg.png' width="250">
-
 ## Getting Started
 To build and run this project:
 
