@@ -10,33 +10,26 @@ To build and run this project:
 3. `cd` into the repo folder.
 4. run `flutter run-android` or `flutter run-ios` to build the app.
 
-(Please note that a Mac with XCode is required to build for iOS)
-
-
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/_yL6bHB6oPA/0.jpg)](http://www.youtube.com/watch?v=_yL6bHB6oPA "diegoveloper")
-
-
 ## FLUTTER SAMPLES
 
  
- | [**Hello Flutter**](https://medium.com/@diegoveloper/hello-flutter-eb49e9b27916)      | [**Splash screen in Flutter**](https://medium.com/@diegoveloper/flutter-splash-screen-9f4e05542548)     | 
+ | [**Hello Flutter**]      | [**Splash screen in Flutter**]     | 
 |------------|-------------| 
 |  <img src="https://cdn-images-1.medium.com/max/1600/1*Px0kTaFj9fnY2VJdrWGJgA.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*GfM4eb_y_rM6BaAgDYBWZA.gif" width="250"> |
 
- | [**Fetching & Parsing JSON data**](https://medium.com/@diegoveloper/flutter-fetching-parsing-json-data-c019ddddaa34)      | [**Persistent Tab bars**](https://medium.com/@diegoveloper/flutter-persistent-tab-bars-a26220d322bc)     | 
+ | [**Fetching & Parsing JSON data**]      | [**Persistent Tab bars**]     | 
 |------------|-------------| 
 |  <img src="https://cdn-images-1.medium.com/max/1600/1*KJKHYTFubWr2vamVczhQ_Q.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*s0gi3k5upbW-o88cgW61gg.gif"> |  
 
- | [**Collapsing Toolbar - Sliver App Bar**](https://medium.com/@diegoveloper/flutter-collapsing-toolbar-sliver-app-bar-14b858e87abe)      | [**Shared Element Transitions — Hero**](https://medium.com/@diegoveloper/flutter-shared-element-transitions-hero-heroes-f1a083cb123a)     | 
+ | [**Collapsing Toolbar - Sliver App Bar**]      | [**Shared Element Transitions — Hero**]     | 
 |------------|-------------| 
 |  <img src="https://cdn-images-1.medium.com/max/1600/1*xtROWw7cWRrK5b7tPbw2mg.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*IeAD2e0hM_QThzry3v1FMw.gif" width="250"> |
 
- | [**ScrollController and ScrollNotification**](https://medium.com/@diegoveloper/flutter-lets-know-the-scrollcontroller-and-scrollnotification-652b2685a4ac)      | [**App Clone - Android Messages**](https://medium.com/@diegoveloper/flutter-app-clone-android-messages-e4b034a6c893)     | 
+ | [**ScrollController and ScrollNotification**]      | [**App Clone - Android Messages**]     | 
 |------------|-------------| 
 |  <img src="https://cdn-images-1.medium.com/max/1600/1*_QUSvcpBYYX8v_SiXWpeRA.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*Rb2ATV7nL0lO5K2VcF1NVw.gif" width="250"> |
 
-| [**Communication between widgets**](https://medium.com/flutter-community/flutter-communication-between-widgets-f5590230df1e)   | Animations  / Foldable Page |
+| [**Communication between widgets**]   | Animations  / Foldable Page |
 |--|--|
 | <img src="https://cdn-images-1.medium.com/max/1600/1*kIZJa1_i0OcsqymMxk04zA.gif" width="250"> | <center> <img src="https://media.giphy.com/media/e5Xc8eQQCwyF5AoG7U/giphy.gif" width="250"> </center>|
 
@@ -44,7 +37,7 @@ To build and run this project:
 |--|--|
 | <center> <img src="https://media.giphy.com/media/YrquS6qE7hXmAD82Bf/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/iNwDIyUWQ9tDo10tJ6/giphy.gif" width="250"> </center>|
 
-|App Clone / Twitter Profile Clone | [Custom AppBar & SliverAppBar](https://medium.com/@diegoveloper/flutter-increase-the-power-of-your-appbar-sliverappbar-c4f67c4e076f) |
+|App Clone / Twitter Profile Clone | [Custom AppBar & SliverAppBar] |
 |--|--|
 | <center> <img src="https://media.giphy.com/media/JH0WO8BWjl6rxwcols/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/jRwXjfQDEnnMLbrVL1/giphy.gif" width="250"> </center>|
 
@@ -75,10 +68,10 @@ To build and run this project:
 |--|--|
 | <center> <img src="https://media.giphy.com/media/emGlZPMbFpkNDrFuO7/giphy.gif" width="250"/> </center> | <center> <img src="https://media.giphy.com/media/UrsStRAMXOT93wwyP2/giphy.gif" width="250"/> </center>
 
-   | [Custom AppBar & SliverAppBar](https://medium.com/@diegoveloper/flutter-sliverappbar-with-stretchy-header-9ca04f316ff0) | [App Clone / Travel Concept Demo](https://www.youtube.com/watch?v=VXdpxnjmy0M) |
+   | [Custom AppBar & SliverAppBar] | [App Clone / Travel Concept Demo] |
 |--|--|
 | <center> <img src="https://media.giphy.com/media/QuIvsrhjCr4oPS49qa/giphy.gif" width="250"/> </center> | <center> <img src="https://media.giphy.com/media/gF30YeWCn0Ncf0qxCS/giphy.gif" width="250"/>
 
-   | [Animations / Shrink Top List](https://www.youtube.com/watch?v=becUP_s-KfU) | Animations / Neon Button |
+   | [Animations / Shrink Top List] | Animations / Neon Button |
 |--|--|
 | <center> <img src="https://media.giphy.com/media/XFproCCYQ9eDR416g1/giphy.gif" width="250"/> </center> | <center><img src="https://media.giphy.com/media/L1W2zwjOZAbVadQU56/giphy.gif" width="250"/> </center>
